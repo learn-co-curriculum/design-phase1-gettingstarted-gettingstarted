@@ -1,1 +1,1 @@
-# design-phase1-gettingstarted-courseobjectives
+# design-phase1-gettingstarted-gettingstarted

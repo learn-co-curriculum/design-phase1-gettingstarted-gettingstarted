@@ -1,1 +1,1 @@
-# design-phase1-gettingstarted-gettingstarted
+# design-phase1-gettingstarted-welcome
